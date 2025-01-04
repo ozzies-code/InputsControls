@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\InputsControls\obj\Debug\InputsControls.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\InputsControls\obj\Debug\InputsControls.frmOnlineShopper.resources
+C:\Users\oswal\source\repos\InputsControls\obj\Debug\InputsControls.Resources.resources
+C:\Users\oswal\source\repos\InputsControls\obj\Debug\InputsControls.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\InputsControls\obj\Debug\InputsControls.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\InputsControls\bin\Debug\InputsControls.exe.config
+C:\Users\oswal\source\repos\InputsControls\bin\Debug\InputsControls.exe
+C:\Users\oswal\source\repos\InputsControls\bin\Debug\InputsControls.pdb
+C:\Users\oswal\source\repos\InputsControls\bin\Debug\InputsControls.xml
+C:\Users\oswal\source\repos\InputsControls\obj\Debug\InputsControls.exe
+C:\Users\oswal\source\repos\InputsControls\obj\Debug\InputsControls.xml
+C:\Users\oswal\source\repos\InputsControls\obj\Debug\InputsControls.pdb
